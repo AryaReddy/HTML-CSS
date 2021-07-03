@@ -1,0 +1,23 @@
+h1 {
+    margin: 0;
+}
+#copy-right {
+    margin: 0;
+}
+.bold {
+    font-size: large;
+    font-weight: bold;
+}
+.pre-text {
+    color: #660000;
+    /* font-size: large; */
+    font-family: Verdana;
+}
+.text {
+    margin-left: 40px;
+}
+.size {
+    color: black;
+    font-weight: bold;
+    font-family: Verdana;
+}
